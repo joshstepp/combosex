@@ -1,5 +1,5 @@
 # combination+sex
-## combinationsex.py
+## combosex.py
 
 **About**
 
